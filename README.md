@@ -12,5 +12,5 @@ Simple and Easy to use and configure:
 '''
   ./awsScript.py <Request Type> <instance1> <instance2> <...>
 Example: ./awsScript.py start i-83408833535ti i-834999571ti
-
-***Status will be logged to the console.*****
+'''
+***Status will be logged to the console.***
